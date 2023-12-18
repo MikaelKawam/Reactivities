@@ -1776,19 +1776,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikael\\.nuget\\packages\\": {}
+    "C:\\Users\\NewCe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Mikael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\API\\obj\\",
+      "projectPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\NewCe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mikael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NewCe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1802,8 +1802,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

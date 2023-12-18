@@ -1155,19 +1155,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mikael\\.nuget\\packages\\": {}
+    "C:\\Users\\NewCe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Persistence\\Persistence.csproj",
-      "packagesPath": "C:\\Users\\Mikael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Persistence\\obj\\",
+      "projectPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Persistence\\Persistence.csproj",
+      "packagesPath": "C:\\Users\\NewCe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mikael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NewCe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1181,8 +1181,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Domain\\Domain.csproj"
+            "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }

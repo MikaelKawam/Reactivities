@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mikael\\.nuget\\packages\\": {}
+    "C:\\Users\\NewCe\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Mikael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mikael\\repository\\demo\\Reactivities\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\NewCe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NewCe\\OneDrive\\Documentos\\Estudos\\Projects\\Reactivities\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mikael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\NewCe\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
