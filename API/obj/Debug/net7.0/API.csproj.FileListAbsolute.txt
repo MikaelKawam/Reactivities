@@ -148,3 +148,7 @@ C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\obj\Debug\n
 C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\obj\Debug\net7.0\API.pdb
 C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\bin\Debug\net7.0\MediatR.dll
+C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\NewCe\OneDrive\Documentos\Estudos\Projects\Reactivities\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
